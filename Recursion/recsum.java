@@ -1,3 +1,4 @@
+// Program to find sum of numbers from 1 to 'n' using recursion. 
 package Recursion;
 import java.util.Scanner;
 class sum_n{
