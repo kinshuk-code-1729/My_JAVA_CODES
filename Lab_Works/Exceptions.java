@@ -1,3 +1,4 @@
+// Program to show "Exception Handling" in Java.
 package Lab_Works;
 public class Exceptions {
     public static void main(String[] args) {
