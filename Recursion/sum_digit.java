@@ -1,3 +1,4 @@
+// Program to find sum of digits of a number using recursion.
 package Recursion;
 import java.util.Scanner;
 class test_sum{
