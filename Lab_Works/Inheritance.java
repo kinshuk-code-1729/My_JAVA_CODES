@@ -1,3 +1,4 @@
+// Program to demonstrate inheritance in java.
 package Lab_Works;
 public class Inheritance{
     int c;
