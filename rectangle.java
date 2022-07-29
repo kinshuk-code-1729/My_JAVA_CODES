@@ -1,3 +1,4 @@
+// Area of a rectangle.
 import java.util.Scanner;
 public class rectangle{
     public static void main(String[] args) {
