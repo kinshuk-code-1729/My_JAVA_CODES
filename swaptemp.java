@@ -1,3 +1,4 @@
+// Swapping two numbers using third variable
 import java.util.Scanner;
 class swaptemp{
     public static void main(String[] args) {
