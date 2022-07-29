@@ -1,3 +1,4 @@
+// Swapping two numbers using addition & subtraction.
 class swapnum{
     public static void main(String[] args) {
         int p=45,q=56;
