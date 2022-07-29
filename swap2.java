@@ -1,3 +1,4 @@
+// Swapping two numbers using multiplication and division.
 class swap2{
     public static void main(String[] args) {
         int u=45,v=56;
