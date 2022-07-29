@@ -1,3 +1,4 @@
+// Area of a right-angled triangle.
 import java.util.Scanner;
 public class rt_angle{
     public static void main(String[] args) {
