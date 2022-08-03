@@ -1,3 +1,4 @@
+// Program to check whether any 'n' digit number is an Armstrong Number or not.
 import java.util.Scanner;
 class Armstrong{
     int power(int m,int n){
