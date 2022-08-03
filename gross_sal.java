@@ -1,3 +1,4 @@
+// Calculate Gross Salary of an Employee.
 import java.util.Scanner;
 class gross_sal{
     public static void main(String[] args){
