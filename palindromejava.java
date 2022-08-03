@@ -1,3 +1,4 @@
+// Program to Check whether a number is a Palindrome Number.
 import java.util.Scanner;
 class palindromejava {
     public static void main(String args[]) {
