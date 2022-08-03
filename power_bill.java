@@ -1,3 +1,4 @@
+// Calculate the amount on power bill based on monthly consumption.
 import java.util.Scanner;
 public class power_bill{
     public static void main(String[] args) {
