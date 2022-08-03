@@ -1,3 +1,4 @@
+// Program to generate multiplication table of a number.
 import java.util.Scanner;
 public class mul_table{
     public static void main(String[] args) {
