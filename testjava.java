@@ -1,3 +1,4 @@
+// Program to input your first and last name and print full name.
 import java.util.Scanner;
 class testjava{
     public static void main(String[] args){
