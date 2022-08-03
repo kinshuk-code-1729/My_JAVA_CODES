@@ -1,3 +1,4 @@
+// Taking input in Java.
 import java.util.Scanner;
 class inputjava {
 	public static void main(String args[]){
