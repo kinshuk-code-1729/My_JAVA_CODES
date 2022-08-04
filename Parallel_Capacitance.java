@@ -1,3 +1,4 @@
+// Program to Calculate Equivalent Parallel Capacitance.
 import java.util.Scanner;
 public class Parallel_Capacitance {
     public static void main(String[] args) {
