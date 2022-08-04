@@ -1,3 +1,4 @@
+// Program to Calculate Equivalent Parallel Resistance.
 import java.util.Scanner;
 public class Parallel_Resistance {
     public static void main(String[] args) {
