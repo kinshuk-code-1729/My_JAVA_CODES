@@ -1,3 +1,4 @@
+// Print 1st 10 natural numbers.
 class First_ten_natural{
     public static void main(String[] args) {
         int i = 1;
