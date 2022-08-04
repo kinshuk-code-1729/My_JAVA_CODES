@@ -1,3 +1,4 @@
+// Area of an equilateral triangle.
 import java.util.Scanner;
 public class Equilateral {
     public static void main(String[] args) {
