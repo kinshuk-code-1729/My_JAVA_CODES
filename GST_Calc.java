@@ -1,3 +1,4 @@
+// Calculate Overall GST on a Product.
 import java.util.Scanner;
 class calc_GST{
     public double calc_cgst(double x){
