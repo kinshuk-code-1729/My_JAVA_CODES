@@ -1,3 +1,4 @@
+// Calculate Percenatge of a student based on subject marks.
 import java.util.Scanner;
 class Percentage{
     public static void main(String[] args) {
