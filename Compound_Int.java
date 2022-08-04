@@ -1,3 +1,4 @@
+// Program to Calculate Compound Interest.
 import java.util.Scanner;
 class Calc_CI{
     public double Comp_Int(int p,int t,double r,int n){
