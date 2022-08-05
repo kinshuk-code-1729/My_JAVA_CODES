@@ -1,4 +1,4 @@
-// JAVA to Program Solve Second Order Quadratic Equation
+// JAVA Program to Solve Second Order Quadratic Equation.
 import java.util.Scanner;
 public class Quadratic {
     public static void main(String[] args) {
