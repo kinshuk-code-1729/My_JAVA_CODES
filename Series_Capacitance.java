@@ -1,3 +1,4 @@
+// Program to find Equivalent Capacitance in a series connection of capacitors.
 import java.util.Scanner;
 public class Series_Capacitance {
     public static void main(String[] args) {
