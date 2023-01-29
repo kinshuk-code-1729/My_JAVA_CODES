@@ -38,4 +38,12 @@ public class Shape {
     public void test(){
         System.out.println("Hello I am a test method...");
     }
+
+    class InnerShape {
+        int inr_val = 48486;
+        void display(){
+            System.out.println("Inner Class......");
+            System.out.println(inr_val);
+        }
+    }
 }

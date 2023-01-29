@@ -2,7 +2,8 @@ package kinshuk.com.OOPS.Inheritance;
 
 public class Car extends Vehicle{
     public long buildNumber;
-    public Car(){super("Kinshuk");
+    public Car(){
+        super("Kinshuk");
         System.out.println("default constructor in sub class car");
         super.setVehicleType("Car is a 4 wheeler");
     }
