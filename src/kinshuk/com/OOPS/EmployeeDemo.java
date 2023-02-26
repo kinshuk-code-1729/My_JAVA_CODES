@@ -1,6 +1,6 @@
 package kinshuk.com.OOPS;
 
-public class Employee {
+public class EmployeeDemo {
     long EmployeeID; // state variable
     double salary; // state variable
 

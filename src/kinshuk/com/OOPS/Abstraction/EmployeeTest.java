@@ -1,6 +1,6 @@
 package kinshuk.com.OOPS.Abstraction;
 
-public abstract class Employee {
+public abstract class EmployeeTest {
     private String companyName = "KB Corp. Ltd.";
 
     public String getCompanyName() {

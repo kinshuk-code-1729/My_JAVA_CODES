@@ -2,7 +2,7 @@ package kinshuk.com.OOPS;
 
 public class EmployeeMain {
     public static void main(String[] args) {
-        Employee king = new Employee();
+        EmployeeDemo king = new EmployeeDemo();
         System.out.println(king.getEmployeeID());
         System.out.println(king.getsalary());
 
@@ -14,7 +14,7 @@ public class EmployeeMain {
         System.out.println(king.getsalary());
 
         System.out.println("***New Object for shit***");
-        Employee shit = new Employee();
+        EmployeeDemo shit = new EmployeeDemo();
         System.out.println(shit.getEmployeeID());
         System.out.println(shit.getsalary());
 

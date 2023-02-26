@@ -1,6 +1,6 @@
 package kinshuk.com.OOPS.Abstraction;
 
-public class PermanentEmployee extends Employee{
+public class PermanentEmployeeTest extends EmployeeTest {
     @Override
     public double calculateSalary(String employmentType){
         double tax = 0.18;

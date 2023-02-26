@@ -3,8 +3,8 @@ package kinshuk.com.OOPS.Abstraction;
 public class AbstractMain {
     public static void main(String[] args) {
 //        Employee emp1 = new Employee();
-        PermanentEmployee PEMP = new PermanentEmployee();
-        ContractEmployee CEMP = new ContractEmployee();
+        PermanentEmployeeTest PEMP = new PermanentEmployeeTest();
+        ContractEmployeeTest CEMP = new ContractEmployeeTest();
 
         String companyName = PEMP.getCompanyName();
         double sal_PEMP = PEMP.calculateSalary("permanent");
@@ -14,10 +14,10 @@ public class AbstractMain {
         System.out.println("Salary of Permanent Employee is "+ sal_PEMP);
         System.out.println("Salary of Contractual Employee is "+ sal_CEMP);
 
-        Employee e1 = new PermanentEmployee();
+        EmployeeTest e1 = new PermanentEmployeeTest();
         e1.calculateSalary("permanent");
 
-        Employee e2 = new ContractEmployee();
+        EmployeeTest e2 = new ContractEmployeeTest();
         e2.calculateSalary("contractual");
     }
 }
