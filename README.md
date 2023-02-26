@@ -1,2 +1,28 @@
-# My_JAVA_CODES
-This repository contains certain codes of JAVA programming which I've made while learning Java
+# CORE JAVA Content
+- **Basic Constructs of Java Programming.**
+- **OOPS Concepts in Java :**
+  - ***Objects and Classes***
+  - ***Polymorphism***
+  - ***Inheritance***
+  - ***Encapsulation***
+- **Core Concepts of JAVA :**
+  - ***Arrays***
+  - ***Static***
+  - ***Final***
+  - ***Interface***
+- **Wrapper Classes**
+- **Strings & StringBuilders**
+- ***Access Modifiers* in JAVA :**
+  - ***default***
+  - ***public***
+  - ***private***
+  - ***protected***
+- **JAVA *Collection Framework* and *Generics***
+- ***Exceptions* and concept of *Exception Handling***
+- **Certain Concepts More Like :**
+  - ***Multithreading***
+  - ***Synchronization***
+  - ***Garbage Collection***
+- **Working with Files in JAVA :**
+  - ***File Handling***
+  - ***Serialization & Deserialization***
