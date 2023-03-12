@@ -5,7 +5,7 @@ public class Exception1Main {
 //        int x = 8;
 //        int y = 0;
 //        calculate(6,3);
-        calculate(9,0);
+        calculate(9,0); // gives division by zero error
     }
     public static void calculate(int x,int y){
         try{
