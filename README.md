@@ -10,4 +10,13 @@
 - *James Gosling* is known as the father of Java. Before Java, its name was *Oak*. Since Oak was already a registered company, so James Gosling and his team changed the name from Oak to Java.
 
 ## Applications of Java :
-According to Sun, 3 billion devices run Java.
+**According to Sun, 3 billion devices run Java.**
+*There are many devices where Java is currently used. Some of them are as follows :*
+1. Desktop Applications such as acrobat reader, media player, antivirus, etc.
+2. Web Applications such as irctc.co.in, javatpoint.com, etc.
+3. Enterprise Applications such as banking applications.
+4. Mobile
+5. Embedded System
+6. Smart Card
+7. Robotics
+8. Games, etc.
